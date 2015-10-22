@@ -67,7 +67,7 @@ describe('Visual monitor testing', function() {
         exclude:
           [
             // Top carousel.
-            '.slider',
+            '#slider',
             // Nuestra Empresa.
             '.span6 p img',
             '.span4 p img',
