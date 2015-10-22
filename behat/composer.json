@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for http://netmx.mx",
+  "description": "Functional testing for http://netmx.mx site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
